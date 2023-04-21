@@ -7,11 +7,24 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
+Our website project is a road trip planner that allows for convenient planning compared to having to use Google Maps manually. It will allow you to select your hobbies and use them to find points of interest both along your route as well as at your destination. It will also help you calculate fuel costs and strategically choose the best places to get gas to save money.
+
 ### Features
-Include Features here
+Authentication: Let’s users login and save routes to their profiles. 
+Hobby Finder: Helps users find their hobbies and POI both along the trip and when they arrive at either one or multiple destinations, lets them plan legs of trip.
+Gas Estimator: Helps users calculate fuel consumption and best places to stop for gas.
+Trip History: Let's users save and look back at past trips for the memories and ability to plan future trips using past trips.
+Weather Alerts: Add weather alerts if weather looks bad during trip dates.
+
 ### Technologies
-Include Technologies here
+Google Maps API
+Angular
+Java with Spring Boot
+mySQL
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+Google Maps API for Javascript
+How to integrate Angular with Spring Boot
+
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/iaErNYX6/liftoff-project-2023
