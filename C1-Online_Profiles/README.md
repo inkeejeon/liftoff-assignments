@@ -13,6 +13,6 @@ https://github.com/inkeejeon
 https://www.linkedin.com/in/inkee-jeon-94517b254/
 
 ### Resume
-You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
+https://docs.google.com/document/d/1arislAA-UjSHQPpJQpnU9pHF3Tz9udpUrRQkTffVqII/edit
 
 > *Your GitHub repository is public* if you do not want to upload your resume to a public facing repository, talk with your mentor about an alternate way to submit this assignment.
